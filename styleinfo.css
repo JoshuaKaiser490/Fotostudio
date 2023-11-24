@@ -1,0 +1,69 @@
+.text-container {
+  background-color: #dedede;
+  padding: 8px;
+  color: #484846;
+  font-weight: 600;
+}
+
+.highlight {
+  color: #484846;
+  font-size: 52px;
+}
+
+a {
+  color: #831d17;
+  text-decoration: none;
+  margin-left: 16px;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  width: 92%;
+  top: 0;
+  background-color:#f3f5f6
+  
+}
+
+.img-container {
+  background-color: white;
+  padding: 16px;
+}
+
+body {
+  font-family: "Roboto Slab", serif;
+  background-color: #f3f5f6;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.portrait {
+  width: 100%;
+  margin-top: 150px;
+}
+
+.headline {
+  color: #831d17;
+}
+
+.maps-frame {
+  border: 0;
+  height: 350px;
+  width: 70%;
+}
+
+.legal-content {
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.legal-text {
+  margin-right: 16px;
+}
